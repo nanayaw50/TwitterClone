@@ -1,2 +1,2 @@
 # TwitterClone
-Twitter clone app using android
+Twitter clone app using android for beginners.
